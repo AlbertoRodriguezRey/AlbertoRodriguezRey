@@ -19,12 +19,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlbertoRodriguezRey.AlbertoRodriguezRey&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -67,7 +67,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoRodriguezRey&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezRey&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AlbertoRodriguezRey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&background=0d1117" height="220" alt="streak graph"  />
 </div>
 
 ###
