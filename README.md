@@ -66,14 +66,23 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlbertoRodriguezRey&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlbertoRodriguezRey&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
-<br>
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlbertoRodriguezRey&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <br>
+</div>
 
 <div align="center">
+  <br>
   <img src="https://streak-stats.demolab.com?user=AlbertoRodriguezRey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=0d1117" height="220" alt="streak graph" />
+</div>
+
+<div align="center">
+  <h3>🛠  Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,vscode&theme=dark" />
 </div>
 
 <br>
