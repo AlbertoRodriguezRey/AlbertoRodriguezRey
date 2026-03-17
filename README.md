@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello" />
   
-  <h1 align="center">Hey there 👋, I'm Alberto</h1>
+  <h1 align="center">Hey there, I'm Alberto</h1>
   
   <a href="https://www.linkedin.com/in/alberto-rodriguez-rey-b99491314" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -20,13 +20,13 @@
 
 <br>
 
-### 👩‍💻 About Me
+### About Me
 
 I'm Alberto from Spain.
 
-- 🔭 I'm working as a **FullStack Developer**
-- 📚 I'm currently learning **Cloud Network**
-- ⚡ In my free time I play video games
+-  I'm working as a **FullStack Developer**
+-  I'm currently learning **Cloud Network**
+-  In my free time I play video games
 
 <br>
 
@@ -55,7 +55,7 @@ I'm Alberto from Spain.
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlbertoRodriguezRey&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlbertoRodriguezRey&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlbertoRodriguezRey&theme=dark" alt="Top Languages" />
 </div>
 
 <br>
