@@ -55,6 +55,8 @@
   <img src="https://streak-stats.demolab.com?user=AlbertoRodriguezRey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=0d1117" height="200" alt="Streak stats" />
 </div>
 
+![snake animation](https://raw.githubusercontent.com/AlbertoRodriguezRey/AlbertoRodriguezRey/output/snake.svg)
+
 ---
 
 <div align="center"><pre>
